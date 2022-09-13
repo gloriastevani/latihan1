@@ -1,0 +1,36 @@
+Jumlah Perulangan : 
+10
+Total : 550
+Total Time : 126620
+BUILD SUCCESSFUL (total time: 2 minutes 7 seconds)
+
+
+
+
+
+
+1000
+Total : 500500000
+Total Time : 9018
+BUILD SUCCESSFUL (total time: 9 seconds)
+
+3000
+Total : 13504500000
+Total Time : 9295
+BUILD SUCCESSFUL (total time: 10 seconds)
+
+5000
+Total : 62512500000
+Total Time : 27737
+BUILD SUCCESSFUL (total time: 28 seconds)
+
+7000
+Total : 171524500000
+Total Time : 107295
+BUILD SUCCESSFUL (total time: 1 minute 48 seconds)
+
+9000
+Total : 364540500000
+Total Time : 159615
+BUILD SUCCESSFUL (total time: 2 minutes 40 seconds)
+
