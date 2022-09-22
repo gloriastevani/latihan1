@@ -1,0 +1,11 @@
+body {
+    background : url(love2.png) rgb(233, 146, 204) no-repeat center;
+
+}
+h1{
+    font-size: 80px;
+    color: rgba(255, 255, 255, 0.442);
+}
+b{
+    font-size: 50px;
+}
